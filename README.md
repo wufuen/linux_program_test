@@ -1,3 +1,3 @@
 # linux_program_test
-linux pthread concurrence \ mutex programming exercise
-linux socket programming exercise
+1.linux pthread concurrence \ mutex programming exercise
+2.linux socket programming exercise
