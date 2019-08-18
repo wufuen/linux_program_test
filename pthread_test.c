@@ -9,6 +9,7 @@ struct protocal_call
 {
     protocal_fun p_fun;
     char * key;
+    int type;
 };
 
 int main(int argc,void *argv[])
